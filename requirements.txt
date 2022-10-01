@@ -1,5 +1,6 @@
 requests~=2.28.1
 flask
+flask_cors
 timezonefinder
 pytz
 gunicorn
